@@ -103,7 +103,7 @@
       "type": "vless",
       "tag": "WS7-All-@ArV2ray § 0",
       "server": "www.speedtest.net",
-      "server_port": 2086,
+      "server_port": 8080,
       "uuid": "telegram-id-ArV2ray",
       "transport": {
         "type": "ws",
